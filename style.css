@@ -1,3 +1,64 @@
-p {
-background-color:#ab5745;
+* {
+background-color:#f0e1c5;
+
+
+}
+
+a:link {
+color:black;
+}
+a:visited {
+color:black;
+}
+a:hover {
+color:#d6b375;
+}
+
+h1 {
+
+margin:0 700px 0 700px;
+tex-align:center;
+color: white;
+
+background-color: black;
+}
+
+
+.pouette {
+display:inline;
+   width:490px;
+   height:350px;
+   
+   margin:0 -15px 0 -8px;
+   z-index:1;
+   display:inline;
+   clear:both;
+   position:relative;  
+}
+
+#prout {
+font-size:30px;
+margin-top:40px;
+
+}
+
+#imgmerde {
+    display-inline;
+    margin: 12px 12px 0 10px;
+    position:relative;
+    
+}
+
+ul {
+    
+    
+    display:inline-block;
+    margin: 100px 300px 0 170px;
+    margin: 100px 300px 0 170px;
+    float:right;
+    font-size:40px;
+    font-family: Futura;
+    
+    
+
 }
