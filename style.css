@@ -25,15 +25,17 @@ background-color: black;
 
 
 .pouette {
-display:inline;
+display:inline-block;
    width:490px;
    height:350px;
-   
-   margin:0 -15px 0 -8px;
+   margin:-15px -15px 0 -8px;
    z-index:1;
-   display:inline;
-   clear:both;
+  left:0;
+  right:0;
+  top:0;
+   
    position:relative;  
+   
 }
 
 #prout {
